@@ -21,7 +21,7 @@ int main ()
             }
         }
     }
-    printf("Bubble Sort");
+    printf("Bubble Sort");jgkb
     for(i=0; i<n; i++)
     {
         scanf("%d", &arr[i]);
